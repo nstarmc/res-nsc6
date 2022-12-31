@@ -1,7 +1,8 @@
 {
     "version":{
         "release":"0.0.3",
-        "beta":"0.0.3"
+        "beta":"0.0.3",
+        "gamepack":"2023.1.1"
     },
     "announcement":{
         "start_page":"测试公告",
