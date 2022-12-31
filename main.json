@@ -10,5 +10,18 @@
     "server":{
         "bindip":"203.135.96.197",
         "bindport":"21628"
-    }
+    },
+    "background":[
+        "https://client.nstarmc.cn/bg/bg%20(1).png",
+        "https://client.nstarmc.cn/bg/bg%20(2).png",
+        "https://client.nstarmc.cn/bg/bg%20(3).png",
+        "https://client.nstarmc.cn/bg/bg%20(4).png",
+        "https://client.nstarmc.cn/bg/bg%20(5).png",
+        "https://client.nstarmc.cn/bg/bg%20(6).png",
+        "https://client.nstarmc.cn/bg/bg%20(7).png",
+        "https://client.nstarmc.cn/bg/bg%20(8).png",
+        "https://client.nstarmc.cn/bg/bg%20(9).png",
+        "https://client.nstarmc.cn/bg/bg%20(10).png",
+        "https://client.nstarmc.cn/bg/bg%20(11).png"
+    ]
 }
