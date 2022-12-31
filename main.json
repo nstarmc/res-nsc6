@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"0.0.2",
-        "beta":"0.0.2"
+        "release":"0.0.3",
+        "beta":"0.0.3"
     },
     "announcement":{
         "start_page":"测试公告",
@@ -9,7 +9,8 @@
     },
     "server":{
         "bindip":"203.135.96.197",
-        "bindport":"21628"
+        "bindport":"21628",
+        "ip.dat":"https://nsc6.nstarmc.cn/servers/servers.dat"
     },
     "background":[
         "https://client.nstarmc.cn/bg/bg%20(1).png",
