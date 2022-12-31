@@ -8,7 +8,7 @@
         "server_title":"没有！~"
     },
     "server":{
-        "bindip":"2b2t.org",
-        "bindport":"25565"
+        "bindip":"203.135.96.197",
+        "bindport":"21628"
     }
 }
