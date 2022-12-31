@@ -8,6 +8,7 @@
         "server_title":"没有！~"
     },
     "server":{
-        "bindip":"mc.hypixel.net"
+        "bindip":"mc.hypixel.net",
+        "bindport":"25565"
     }
 }
