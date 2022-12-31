@@ -4,6 +4,7 @@
         "beta":"0.0.2"
     },
     "announcement":{
-        "start_page":"测试公告"
+        "start_page":"测试公告",
+        "server_title":"没有！~"
     }
 }
