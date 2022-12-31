@@ -6,5 +6,8 @@
     "announcement":{
         "start_page":"测试公告",
         "server_title":"没有！~"
+    },
+    "server":{
+        "bindip":"mc.hypixel.net"
     }
 }
