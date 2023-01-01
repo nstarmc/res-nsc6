@@ -4,6 +4,9 @@
         "beta":"0.0.3",
         "gamepack":"2023.1.1"
     },
+    "update_pack":{
+        "release":"https://dnxshare-my.sharepoint.com/personal/lulu_dnxshare_cn/_layouts/15/download.aspx?UniqueId=006cfc19-cdcc-4aaf-a987-a10b1c8da1fb&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvZG54c2hhcmUtbXkuc2hhcmVwb2ludC5jb21AZTU1OTUxOWQtN2FjNy00MWQxLTkwOTAtMjc5MzBkYWRlNGMzIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTY3MjUzMzUxMiIsImV4cCI6IjE2NzI1MzcxMTIiLCJlbmRwb2ludHVybCI6IlJmdGV5N1hBTzhkZWJmR1FhRzAwL0xtY3BrYkUrYjBhS3BVc3JEck4wam89IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxNDgiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsImNpZCI6Ik1HSTROemhrTkRZdE0yVTJZaTAwT1ROaUxUbGtPREl0TnpneE0yVTBNMlEwTVRreSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJOMlZtTmpBMllUSXROR0psWmkwME1UVmhMVGhsT0dVdFkyVXpaR0UzTkRsaE5qVmgiLCJhcHBfZGlzcGxheW5hbWUiOiJkcml2ZSIsImdpdmVuX25hbWUiOiLlrociLCJmYW1pbHlfbmFtZSI6IuWwjyIsImFwcGlkIjoiNWU5MjMyMGYtZTZjNC00MjI2LTgyZjUtNDQwYzIyYTQ0YzkwIiwidGlkIjoiZTU1OTUxOWQtN2FjNy00MWQxLTkwOTAtMjc5MzBkYWRlNGMzIiwidXBuIjoibHVsdUBkbnhzaGFyZS5jbiIsInB1aWQiOiIxMDAzMjAwMEFEMDc5MDUwIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDBhZDA3OTA1MEBsaXZlLmNvbSIsInNjcCI6ImFsbGZpbGVzLndyaXRlIiwidHQiOiIyIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbCwiaXBhZGRyIjoiMjAuMTkwLjE0NC4xNzEifQ.d2VwUDBuNUF2VWpiQTlhMm05SlJxdnpBQk1GODgrTC9Pam9xM1pZOFZMWT0&ApiVersion=2.0"
+    },
     "announcement":{
         "start_page":"测试公告",
         "server_title":"没有！~"
