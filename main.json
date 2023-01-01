@@ -11,7 +11,8 @@
     "game_pack":{
         "incremental_update":"true",
         "incremental_update_version":"2022.12.31",
-        "records":"更新日志\n换行测试"
+        "records":"更新日志\n换行测试",
+        "dl":""
     },
     "announcement":{
         "start_page":"测试公告",
