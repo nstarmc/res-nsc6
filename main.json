@@ -35,5 +35,12 @@
         "https://client.nstarmc.cn/bg/bg%20(9).png",
         "https://client.nstarmc.cn/bg/bg%20(10).png",
         "https://client.nstarmc.cn/bg/bg%20(11).png"
+    ],
+    "java":[
+        {
+            "version":"17",
+            "dl_url":"https://download.java.net/openjdk/jdk17/ri/openjdk-17+35_windows-x64_bin.zip",
+            "dir":"jdk-17"
+        }
     ]
 }
