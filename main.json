@@ -1,12 +1,12 @@
 {
     "version":{
-        "release":"1.0.0.1",
-        "beta":"1.0.0.1",
-        "gamepack":"2023.1.1"
+        "release":"1.2.0.0",
+        "beta":"1.2.0.0",
+        "gamepack":"2023.1.15"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSC-UPD/v1001.zip?sign=aWietnm7PZG7JpRClEiVluOEBeqbfpt1eoo9NzrBoKY=:0",
-        "records":"啥也没更新~"
+        "release":"https://lists.nstarmc.cn/d/NSC-UPD/NSC/1.2.zip?sign=qrekZreSY9zi5jP_jXK-Nb_wvbAys-Beo3KO2OJOLpY=:0",
+        "records":"1.2"
     },
     "game_pack":{
         "incremental_update":"true",
@@ -15,12 +15,12 @@
         "dl":""
     },
     "announcement":{
-        "start_page":"测试公告",
-        "server_title":"没有！~"
+        "start_page":"服务器开放啦！！！",
+        "server_title":"1.19.2科技工业服务器"
     },
     "server":{
-        "bindip":"203.135.96.197",
-        "bindport":"21628",
+        "bindip":"119.23.50.217",
+        "bindport":"12043",
         "ip.dat":"https://nsc6.nstarmc.cn/servers/servers.dat"
     },
     "background":[
