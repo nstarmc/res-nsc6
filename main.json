@@ -5,7 +5,7 @@
         "gamepack":"2023.1.16"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSC-UPD/NSC/v1.2.1.zip?sign=tycGTZ-8ewq3VrdCvS362jiWPjGzcsPNVzWhNjJ1AUU=:0",
+        "release":"https://lists.nstarmc.cn/d/upd/NSC/v1.2.1.zip?sign=t6lQqNb02Zof2FigaiZy1qBNLHHEp5Lwh89I7O_lnRM=:0",
         "records":"修复增量更新读取错误"
     },
     "game_pack":{
