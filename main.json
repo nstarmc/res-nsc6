@@ -10,7 +10,7 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2022.1.15",
+        "incremental_update_version":"2023.1.15",
         "records":"添加连锁模组，删除输入法挂掉模组",
         "dl":""
     },
