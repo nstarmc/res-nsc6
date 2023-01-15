@@ -2,7 +2,7 @@
     "version":{
         "release":"1.2.0.0",
         "beta":"1.2.0.0",
-        "gamepack":"2023.1.15"
+        "gamepack":"2023.1.16"
     },
     "update_pack":{
         "release":"https://lists.nstarmc.cn/d/NSC-UPD/NSC/1.2.zip?sign=qrekZreSY9zi5jP_jXK-Nb_wvbAys-Beo3KO2OJOLpY=:0",
@@ -10,8 +10,8 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2022.12.31",
-        "records":"更新日志\n换行测试",
+        "incremental_update_version":"2022.1.15",
+        "records":"添加连锁模组，删除输入法挂掉模组",
         "dl":""
     },
     "announcement":{
