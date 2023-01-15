@@ -1,12 +1,12 @@
 {
     "version":{
-        "release":"1.2.0.0",
-        "beta":"1.2.0.0",
+        "release":"1.2.1.0",
+        "beta":"1.2.1.0",
         "gamepack":"2023.1.16"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSC-UPD/NSC/1.2.zip?sign=qrekZreSY9zi5jP_jXK-Nb_wvbAys-Beo3KO2OJOLpY=:0",
-        "records":"1.2"
+        "release":"https://lists.nstarmc.cn/d/NSC-UPD/NSC/v1.2.1.zip?sign=tycGTZ-8ewq3VrdCvS362jiWPjGzcsPNVzWhNjJ1AUU=:0",
+        "records":"修复增量更新读取错误"
     },
     "game_pack":{
         "incremental_update":"true",
