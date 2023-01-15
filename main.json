@@ -1,12 +1,12 @@
 {
     "version":{
-        "release":"1.2.1.0",
-        "beta":"1.2.1.0",
+        "release":"1.2.2.0",
+        "beta":"1.2.2.0",
         "gamepack":"2023.1.16"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/upd/NSC/v1.2.1.zip?sign=t6lQqNb02Zof2FigaiZy1qBNLHHEp5Lwh89I7O_lnRM=:0",
-        "records":"修复增量更新读取错误"
+        "release":"https://lists.nstarmc.cn/d/upd/NSC/V1.2.2.zip?sign=2vn1EqZfPZ_4ZklFoLdZ_cILNfid4IfHB1uTMGVx8vY=:0",
+        "records":"修复增量更新读取错误\n修复更新包没有正常删除的处理\n不允许多开，导致出错"
     },
     "game_pack":{
         "incremental_update":"true",
