@@ -2,7 +2,7 @@
     "version":{
         "release":"1.2.2.1",
         "beta":"1.2.2.1",
-        "gamepack":"2023.1.16"
+        "gamepack":"2023.1.16.2"
     },
     "update_pack":{
         "release":"https://lists.nstarmc.cn/d/upd/NSC/V1.2.2.1.zip?sign=xHYuqXESXvw9xIPz9054Fft0Xlt3o3qyVSXsfxPqVTw=:0",
@@ -10,12 +10,12 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2023.1.15",
-        "records":"添加连锁模组，删除输入法挂掉模组",
+        "incremental_update_version":"2023.1.16",
+        "records":"添加光影，动态光源支持",
         "dl":""
     },
     "announcement":{
-        "start_page":"服务器开放啦！！！",
+        "start_page":"服务器开放啦！！！\n要是想要赞助者激活码，带着\n设备id，邮箱，游戏id找liluoer要\n（放心，免费给）\n当然我不介意您Kr（一种元素）\n（在关于页面的激活授权那里）",
         "server_title":"1.19.2科技工业服务器"
     },
     "server":{
