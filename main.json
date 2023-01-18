@@ -2,7 +2,7 @@
     "version":{
         "release":"1.2.2.1",
         "beta":"1.2.2.1",
-        "gamepack":"2023.1.17.3"
+        "gamepack":"2023.1.18"
     },
     "update_pack":{
         "release":"https://lists.nstarmc.cn/d/upd/NSC/V1.2.2.1.zip?sign=xHYuqXESXvw9xIPz9054Fft0Xlt3o3qyVSXsfxPqVTw=:0",
@@ -10,8 +10,8 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2023.1.17.2",
-        "records":"再见ic2exp，你好ic2c！\n添加AE2无线终端，加速火把，\n语音聊天，通用机械工具，\n拼音搜索及一些优化模组",
+        "incremental_update_version":"2023.1.17.3",
+        "records":"添加热力膨胀，暮色森林，更多箱子，高级太阳能mod",
         "dl":""
     },
     "announcement":{
