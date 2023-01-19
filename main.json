@@ -2,7 +2,7 @@
     "version":{
         "release":"1.2.2.1",
         "beta":"1.2.2.1",
-        "gamepack":"2023.1.18"
+        "gamepack":"2023.1.19"
     },
     "update_pack":{
         "release":"https://lists.nstarmc.cn/d/upd/NSC/V1.2.2.1.zip?sign=xHYuqXESXvw9xIPz9054Fft0Xlt3o3qyVSXsfxPqVTw=:0",
@@ -10,8 +10,8 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2023.1.17.3",
-        "records":"添加热力膨胀，暮色森林，更多箱子，高级太阳能mod",
+        "incremental_update_version":"2023.1.18",
+        "records":"更新ic2c到2.0.3版本",
         "dl":""
     },
     "announcement":{
