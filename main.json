@@ -2,7 +2,7 @@
     "version":{
         "release":"1.3",
         "beta":"1.3",
-        "gamepack":"2023.6.26"
+        "gamepack":"2023.6.27"
     },
     "update_pack":{
         "release":"hhttps://lists.nstarmc.cn/d/NSTARMC-Res/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.3.zip?sign=aQtxnEV5RFCWu9qm_zP1AemQa972faxJea6llLkCnp0=:0",
@@ -10,12 +10,12 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2023.6.24",
-        "records":"添加植物魔法，箱子，抽屉模组\n移除无效模组",
+        "incremental_update_version":"2023.6.26",
+        "records":"添加一些PlanB中的模组",
         "dl":""
     },
     "announcement":{
-        "start_page":"服务器开放啦！！！\n配置要求：\nCPU:2Ghz+\n内存：不开光影3G+（推荐4G），开光影：4G+（推荐6G）\n建议使用独立显卡~",
+        "start_page":"若游戏崩溃，请全量更新（本地数据会清空）\n配置要求：\nCPU:2Ghz+\n内存：不开光影3G+（推荐4G），开光影：4G+（推荐6G）\n建议使用独立显卡~",
         "server_title":"1.19.2科技工业魔法服务器"
     },
     "server":{
