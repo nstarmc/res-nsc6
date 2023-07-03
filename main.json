@@ -1,12 +1,12 @@
 {
     "version":{
-        "release":"1.3",
-        "beta":"1.3",
+        "release":"1.3.1",
+        "beta":"1.3.1",
         "gamepack":"2023.6.27"
     },
     "update_pack":{
-        "release":"hhttps://lists.nstarmc.cn/d/NSTARMC-Res/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.3.zip?sign=aQtxnEV5RFCWu9qm_zP1AemQa972faxJea6llLkCnp0=:0",
-        "records":"添加NSTARMC登陆验证"
+        "release":"https://lists.nstarmc.cn/d/NSTARMC-Res/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.3.1.zip?sign=26qgUjG6TDE_PmPFVy1hNFdMUgfzNMBbcjlY2Hwy4ow=:0",
+        "records":"更新UI，一些BUG修复（玄学警告）"
     },
     "game_pack":{
         "incremental_update":"true",
