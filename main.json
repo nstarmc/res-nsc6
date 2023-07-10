@@ -5,8 +5,8 @@
         "gamepack":"2023.7.10"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSTARMC-Res/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.3.2.zip?sign=5-kzmnj5Y_h9VB8XrfeVRB9M5ewBCZmJXiuYhM8SDzI=:0",
-        "records":"更改UI配色方案，BUG修复（玄学警告）\n[更新不了就去频道下载更新包]"
+        "release":"https://lists.nstarmc.cn/d/NSTARMC-Res/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.3.3.zip?sign=jjfIseEjliLYT0eu0y1Mjbq4-0mpgcwpRinfeK_f4qE=:0",
+        "records":"更改UI配色方案，BUG修复（玄学警告）\n更换头像cdn\n[更新不了就去频道下载更新包]"
     },
     "game_pack":{
         "incremental_update":"true",
