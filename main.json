@@ -16,7 +16,7 @@
     },
     "announcement":{
         "start_page":"若游戏崩溃，请全量更新（本地数据会清空）\n配置要求：\nCPU:2Ghz+\n内存：不开光影3G+（推荐4G），开光影：4G+（推荐6G）\n建议使用独立显卡~",
-        "server_title":"1.19.2科技工业魔法服务器"
+        "server_title":"1.12.2 RLCRAFT"
     },
     "server":{
         "bindip":"mc.nstarmc.cn",
