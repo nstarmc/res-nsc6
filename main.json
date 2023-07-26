@@ -2,7 +2,7 @@
     "version":{
         "release":"1.3.3",
         "beta":"1.3.3",
-        "gamepack":"2023.7.10"
+        "gamepack":"2023.7.26"
     },
     "update_pack":{
         "release":"https://lists.nstarmc.cn/d/NSTARMC-Res/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.3.3.zip?sign=jjfIseEjliLYT0eu0y1Mjbq4-0mpgcwpRinfeK_f4qE=:0",
@@ -11,12 +11,12 @@
     "game_pack":{
         "incremental_update":"true",
         "incremental_update_version":"2023.6.06",
-        "records":"R L C R A F T",
+        "records":"ATM9+MASA全家桶",
         "dl":""
     },
     "announcement":{
-        "start_page":"若游戏崩溃，请全量更新（本地数据会清空）\n配置要求：\nCPU:2Ghz+\n内存：不开光影3G+（推荐4G），开光影：4G+（推荐6G）\n建议使用独立显卡~",
-        "server_title":"1.12.2 RLCRAFT"
+        "start_page":"请自行加载汉化包\n配置要求：\nCPU:2Ghz+\n内存：不开光影3G+（推荐4G），开光影：4G+（推荐6G）\n建议使用独立显卡~",
+        "server_title":"1.20.1 ATM9"
     },
     "server":{
         "bindip":"mc.nstarmc.cn",
