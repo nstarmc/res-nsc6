@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"1.4",
-        "beta":"1.4",
+        "release":"1.5",
+        "beta":"1.5",
         "gamepack":"2023.7.31"
     },
     "i18":{
@@ -9,8 +9,8 @@
         "SHA-1":"898fe04933ca40814e9b1b70edf31b1017290ea5"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/V1.4.zip?sign=cYAe7FTDOg_pvXroWNEbKdWuXecvO8I6-YUnH-i6rLQ=:0",
-        "records":"添加汉化资源包更新功能\n修复服务器ip文件已存在时不更新的bug"
+        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/V1.5.zip?sign=FSQbQV1-EjqaQrmoSVtSPTNfNyv04tMKisFzoY77yKg=:0",
+        "records":"大幅降低启动时间（更换更新资源策略）\n修复小文件下载问题"
     },
     "game_pack":{
         "incremental_update":"true",
