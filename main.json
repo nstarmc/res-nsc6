@@ -27,6 +27,11 @@
         "bindport":"25565",
         "ip.dat":"https://nsc6.nstarmc.cn/servers/servers.dat"
     },
+    "img_notice_sha1":{
+        "img1":"1bbc763183c4f8a191ad1cdb0ba96153204c9514",
+        "img2":"ae757f55268cfc9ee64c00c8da0c070fb5ba71bd",
+        "img3":"ce985e2e75bf2ee4f364f14fb16bf97d4fc6b962"
+    },
     "background":[
         "https://client.nstarmc.cn/bg/bg%20(1).png",
         "https://client.nstarmc.cn/bg/bg%20(2).png",
