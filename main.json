@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"1.5",
-        "beta":"1.5",
+        "release":"1.5.1",
+        "beta":"1.5.1",
         "gamepack":"2023.7.31"
     },
     "i18":{
@@ -9,8 +9,8 @@
         "SHA-1":"898fe04933ca40814e9b1b70edf31b1017290ea5"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/V1.5.zip?sign=FSQbQV1-EjqaQrmoSVtSPTNfNyv04tMKisFzoY77yKg=:0",
-        "records":"大幅降低启动时间（更换更新资源策略）\n修复小文件下载问题"
+        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/NSC6%20UPDATE/V1.5.1.zip?sign=BCHNofffNSlLevNGbZ0LV9pRJq3Ey5Phkq7orxEH-38=:0",
+        "records":"将二次启动的loading时间尽可能降到0\n 启动后会预下载下一次启动所需资源\n本地已有相同资源时不更新（servers.dat）"
     },
     "game_pack":{
         "incremental_update":"true",
