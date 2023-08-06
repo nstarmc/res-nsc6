@@ -2,7 +2,7 @@
     "version":{
         "release":"1.5.2",
         "beta":"1.5.2",
-        "gamepack":"2023.8.2"
+        "gamepack":"2023.8.6"
     },
     "i18":{
         "URL":"https://lists.nstarmc.cn/d/NSTARMCRES%202/i18n/%E3%80%908-2%E6%96%B0%E7%89%88%E3%80%91NSTARMC%20ATM9%E6%B1%89%E5%8C%96%E5%8C%85%20all%20in%20one.zip?sign=lus1NQWBKGgBJhRthMRFnoXt_REj2zAL9qdV5--WkR4=:0",
@@ -15,7 +15,7 @@
     "game_pack":{
         "incremental_update":"true",
         "incremental_update_version":"2023.7.31",
-        "records":"更新EnderIO（修复自动熔炼崩溃）",
+        "records":"更新格雷科技V1.0.10a\n修改Minecraft的UI字体",
         "dl":""
     },
     "announcement":{
