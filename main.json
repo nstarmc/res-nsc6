@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"1.5.2",
-        "beta":"1.5.2",
+        "release":"1.6",
+        "beta":"1.6",
         "gamepack":"2023.8.6"
     },
     "i18":{
@@ -9,8 +9,8 @@
         "SHA-1":"898fe04933ca40814e9b1b70edf31b1017290ea5"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/NSC6%20UPDATE/V1.5.2.zip?sign=LEVZihwtd1rGlU6J8LrJDHYOLac40BYD0S9Z73MMwH4=:0",
-        "records":"【V1.5.2】更改增量更新允许使用的机制\n添加图片公告资源错误时删除功能\n【V1.5.1】将二次启动的loading时间尽可能降到0\n 启动后会预下载下一次启动所需资源\n本地已有相同资源时不更新（servers.dat）"
+        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/NSC6%20UPDATE/V1.6.zip?sign=HUuLKA1MAjB03EpSf1-svGMLeabmGKbdsM30wfyhzzg=:0",
+        "records":"【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
     },
     "game_pack":{
         "incremental_update":"true",
