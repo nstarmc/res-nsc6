@@ -5,11 +5,11 @@
         "gamepack":"2023.8.8"
     },
     "i18":{
-        "URL":"https://lists.nstarmc.cn/d/NSTARMCRES%202/i18n/%E3%80%908-8%E6%96%B0%E7%89%88%E3%80%91NSTARMC%20ATM9%E6%B1%89%E5%8C%96%E5%8C%85%20all%20in%20one.zip?sign=LLbxStJUeask2EZXNSv4mfQpGQeE0qeXPKsQTTAF9mI=:0",
+        "URL":"https://lists.nstarmc.cn/d/NSTARMC%20RES/NSTARMC-SERVER%20I18N/%E3%80%908-8%E6%96%B0%E7%89%88%E3%80%91NSTARMC%20ATM9%E6%B1%89%E5%8C%96%E5%8C%85%20all%20in%20one.zip?sign=RTbV_mcIlGpCYB77eliy8ixE2IDJd5-35OcRpsu59LA=:0",
         "SHA-1":"e105ad14340e5824aa5bfb329bc4b29ea148f59e"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/NSC6%20UPDATE/V1.6.4.zip?sign=_w7j74Q7jKQ6ZR6-5MhUSjCKIimdsOrgkClpqI0hrQo=:0",
+        "release":"https://lists.nstarmc.cn/d/NSTARMC%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.6.4.zip?sign=HNarE8mJkvzVqG1WN9uiqK-s7CFCmoejvUy03SzBaKg=:0",
         "records":"【1.6.4】更新导航导致隐藏的UI恢复进入\n添加账户管理页面\n登陆时回车将锁定按钮\n【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
     },
     "game_pack":{
