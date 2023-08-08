@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"1.6.3",
-        "beta":"1.6.3",
+        "release":"1.6.4",
+        "beta":"1.6.4",
         "gamepack":"2023.8.8"
     },
     "i18":{
@@ -9,13 +9,13 @@
         "SHA-1":"e105ad14340e5824aa5bfb329bc4b29ea148f59e"
     },
     "update_pack":{
-        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/NSC6%20UPDATE/V1.6.3.zip?sign=4JTqEVztL1PD3FHJqbiSuBH1YQ-Z6A1OUNaSa7M5LEM=:0",
-        "records":"【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
+        "release":"https://lists.nstarmc.cn/d/NSTARMCRES%202/NSC6%20UPDATE/V1.6.4.zip?sign=_w7j74Q7jKQ6ZR6-5MhUSjCKIimdsOrgkClpqI0hrQo=:0",
+        "records":"【1.6.4】更新导航导致隐藏的UI恢复进入\n添加账户管理页面\n登陆时回车将锁定按钮【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
     },
     "game_pack":{
         "incremental_update":"true",
         "incremental_update_version":"2023.8.8",
-        "records":"更新ATM9 0.0.47版本\n详细日志（来自ATM9）：\n添加工业先锋，建筑手仗，电动马达（机械动力），ars creo（机械动力和新生魔艺联动mod），血条显示\n移除AE2无限增幅卡，工具显示\n更新所有模组\n我修改的：添加搬运模组",
+        "records":"更新ATM9 0.0.47版本\n详细日志（来自ATM9）：\n添加工业先锋，建筑手仗，电动马达（机械动力），ars creo（机械动力和新生魔艺联动mod），血条显示\n移除AE2无限增幅卡，工具显示\n更新所有模组\n我修改的：添加搬运模组，输入法修复模组",
         "dl":""
     },
     "announcement":{
