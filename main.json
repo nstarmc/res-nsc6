@@ -2,7 +2,7 @@
     "version":{
         "release":"1.6.4",
         "beta":"1.6.4",
-        "gamepack":"2023.8.8"
+        "gamepack":"2023.10.24"
     },
     "i18":{
         "URL":"https://lists.nstarmc.cn/d/NSTARMC%20RES/NSTARMC-SERVER%20I18N/%E3%80%908-8%E6%96%B0%E7%89%88%E3%80%91NSTARMC%20ATM9%E6%B1%89%E5%8C%96%E5%8C%85%20all%20in%20one.zip?sign=RTbV_mcIlGpCYB77eliy8ixE2IDJd5-35OcRpsu59LA=:0",
@@ -13,14 +13,14 @@
         "records":"【1.6.4】更新导航导致隐藏的UI恢复进入\n添加账户管理页面\n登陆时回车将锁定按钮\n【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
     },
     "game_pack":{
-        "incremental_update":"true",
+        "incremental_update":"tru",
         "incremental_update_version":"2023.8.8",
-        "records":"更新ATM9 0.0.47版本\n详细日志（来自ATM9）：\n添加工业先锋，建筑手仗，电动马达（机械动力），ars creo（机械动力和新生魔艺联动mod），血条显示\n移除AE2无限增幅卡，工具显示\n更新所有模组\n我修改的：添加搬运模组，输入法修复模组",
+        "records":"使用1.20.1基础包\n加了一个传送石碑",
         "dl":""
     },
     "announcement":{
-        "start_page":"请自行加载汉化包\n配置要求：\nCPU:2Ghz+\n内存：不开光影3G+（推荐4G），开光影：4G+（推荐6G）\n建议使用独立显卡~",
-        "server_title":"1.20.1 ATM9"
+        "start_page":"emm？还没开！\n先不要更新游戏，那是ATM9!",
+        "server_title":"1.20.1 差不多原版"
     },
     "server":{
         "bindip":"mc.nstarmc.cn",
