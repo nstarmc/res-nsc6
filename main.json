@@ -10,7 +10,7 @@
     },
     "update_pack":{
         "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.6.5.zip?sign=uxDi0jiu2vu2RPUSPxzU6EYAPYpgkNvxRJyjg8cqhkE=:0",
-        "records":"【1.6.5】修复游戏版本号检测错误\n修复更新通道读取问题【1.6.4】更新导航导致隐藏的UI恢复进入\n添加账户管理页面\n登陆时回车将锁定按钮\n【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
+        "records":"【1.6.5】修复游戏版本号检测错误\n修复更新通道读取问题\n修复背景下载识别问题\n【1.6.4】更新导航导致隐藏的UI恢复进入\n添加账户管理页面\n登陆时回车将锁定按钮\n【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
     },
     "game_pack":{
         "incremental_update":"true",
