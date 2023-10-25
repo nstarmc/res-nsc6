@@ -5,8 +5,8 @@
         "gamepack":"2023.10.24"
     },
     "i18":{
-        "URL":"https://lists.nstarmc.cn/d/NSTARMC%20RES/NSTARMC-SERVER%20I18N/%E3%80%908-8%E6%96%B0%E7%89%88%E3%80%91NSTARMC%20ATM9%E6%B1%89%E5%8C%96%E5%8C%85%20all%20in%20one.zip?sign=RTbV_mcIlGpCYB77eliy8ixE2IDJd5-35OcRpsu59LA=:0",
-        "SHA-1":"e105ad14340e5824aa5bfb329bc4b29ea148f59e"
+        "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/Minecraft-Mod-Language-Package-1.19_3.zip?sign=OHIS3C8iQ3uYPbxS0nQk3TS5QmiEk66-H7jL70pKGKs=:0",
+        "SHA-1":"d7c31718911b58f40bd2822d5ee921a72ca34ed6"
     },
     "update_pack":{
         "release":"https://lists.nstarmc.cn/d/NSTARMC%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.6.4.zip?sign=HNarE8mJkvzVqG1WN9uiqK-s7CFCmoejvUy03SzBaKg=:0",
@@ -15,11 +15,11 @@
     "game_pack":{
         "incremental_update":"tru",
         "incremental_update_version":"2023.8.8",
-        "records":"使用1.20.1基础包\n加了一个传送石碑",
+        "records":"使用1.20.1基础包\n加了一个传送石碑和墓碑模组",
         "dl":""
     },
     "announcement":{
-        "start_page":"emm？还没开！\n先不要更新游戏，那是ATM9!",
+        "start_page":"1.20.1版本服务器客户端开放下载",
         "server_title":"1.20.1 差不多原版"
     },
     "server":{
