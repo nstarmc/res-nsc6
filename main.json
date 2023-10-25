@@ -1,21 +1,21 @@
 {
     "version":{
-        "release":"1.6.5",
-        "beta":"1.6.5",
-        "gamepack":"2023.10.24"
+        "release":"1.6.5.2",
+        "beta":"1.6.5.2",
+        "gamepack":"2023.10.25"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/Minecraft-Mod-Language-Package-1.19_3.zip?sign=OHIS3C8iQ3uYPbxS0nQk3TS5QmiEk66-H7jL70pKGKs=:0",
         "SHA-1":"d7c31718911b58f40bd2822d5ee921a72ca34ed6"
     },
     "update_pack":{
-        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.6.5.zip?sign=uxDi0jiu2vu2RPUSPxzU6EYAPYpgkNvxRJyjg8cqhkE=:0",
-        "records":"【1.6.5】修复游戏版本号检测错误\n修复更新通道读取问题\n修复背景下载识别问题\n【1.6.4】更新导航导致隐藏的UI恢复进入\n添加账户管理页面\n登陆时回车将锁定按钮\n【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
+        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V1.6.5.2.zip?sign=fvRdL8sa-0NwwvEGznP9qp5-d78pf67vgw2inKnHYCY=:0",
+        "records":"【1.6.5.1/2】更换服务器\n【1.6.5】修复游戏版本号检测错误\n修复更新通道读取问题\n修复背景下载识别问题\n【1.6.4】更新导航导致隐藏的UI恢复进入\n添加账户管理页面\n登陆时回车将锁定按钮\n【1.6.3】添加保留数据的全量更新功能\n部分按钮在任务时禁用，防止瞎点导致崩溃\n程序更新页添加错误检测\n【1.6.2】修复头像请求失败问题\n【1.6.1】修复loadings跳页问题\n【V1.6】更换默认背景为1.20樱花群系（by luluxiaoyu）\n重写主页导航UI\n启动页面的“启动游戏”按钮可以正常跳转，不再是rickroll"
     },
     "game_pack":{
         "incremental_update":"true",
         "incremental_update_version":"2023.10.24",
-        "records":"使用1.20.1基础包\n加了一个传送石碑和墓碑模组",
+        "records":"更换验证服务器",
         "dl":""
     },
     "announcement":{
@@ -25,7 +25,7 @@
     "server":{
         "bindip":"mc.nstarmc.cn",
         "bindport":"21861",
-        "ip.dat":"https://nsc6.nstarmc.cn/servers/servers.dat",
+        "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
         "sha1":"0ac48ad8d60b294f60772b3eb8d386d35d7e32a7"
     },
     "img_notice_sha1":{
