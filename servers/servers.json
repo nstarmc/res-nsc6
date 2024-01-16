@@ -1,0 +1,14 @@
+{
+    "ping":[
+        {
+            "name":"ceshi",
+            "ip":"hypixel.net",
+            "port":"25565"
+        },
+        {
+            "name":"ceshi2",
+            "ip":"baidu.com",
+            "port":"25565"
+        }
+    ]
+}

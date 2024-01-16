@@ -28,6 +28,11 @@
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
         "sha1":"0ac48ad8d60b294f60772b3eb8d386d35d7e32a7"
     },
+    "img_notice_url":{
+        "img1":"https://cdnjson.com/images/2024/01/16/1ff5db94f27ec6b06.png",
+        "img2":"https://cdnjson.com/images/2024/01/16/2.png",
+        "img3":"https://cdnjson.com/images/2024/01/16/3.png"
+    },
     "img_notice_sha1":{
         "img1":"1f9d6107ae20a8306674a512273f95632573689f",
         "img2":"a48a984fbb7ecb35b129d3c68d9267ccc66d5691",
