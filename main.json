@@ -1,26 +1,26 @@
 {
     "version":{
-        "release":"2.0",
-        "beta":"2.0",
-        "gamepack":"2023.10.25"
+        "release":"2.0.1",
+        "beta":"2.0.1",
+        "gamepack":"2024.1.21"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/Minecraft-Mod-Language-Package-1.19_3.zip?sign=OHIS3C8iQ3uYPbxS0nQk3TS5QmiEk66-H7jL70pKGKs=:0",
         "SHA-1":"d7c31718911b58f40bd2822d5ee921a72ca34ed6"
     },
     "update_pack":{
-        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V2.0.zip?sign=DbFqGFVwFKsPjHdeqMcyny2OVD_iF01bhBa5TBwrjeU=:0",
-        "records":"-完成内置Minecraft启动功能（Java选择，内存，窗口设置，以及独立日志窗口）\n-完成Java自动安装功能\n-完成服务器节点延迟测试功能\n-暂时移除赞助者认证（等待更新认证方式）\n-重构关于页面的UI\n-添加登录邮箱格式检测\n-优化对于启动第三方启动器的重复代码\n-优化背景预下载机制\n-默认禁用第三方启动器启动游戏\n-修复选择版本时概率出现崩溃的bug\n-更新所有第三方库\n-添加RTSS禁止注入Sodium的参数支持\n-添加帮助页面\n-支持退出登录\n-图片公告支持外链\n-首页更新日志支持按照日期分卡片显示"
+        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V2.0.1.zip?sign=xdWBqfhDv6u7CX3DNjVVimSZm8gkpGWxOSSiZjPwCiw=:0",
+        "records":"-修复程序更新页超出长度时没有滚动条的Bug\n-右下角在登陆后会显示UID\n-修复背景图片文件不完整导致加载崩溃（Bug由FASSD提交）\n-完成内置Minecraft启动功能（Java选择，内存，窗口设置，以及独立日志窗口）\n-完成Java自动安装功能\n-完成服务器节点延迟测试功能\n-暂时移除赞助者认证（等待更新认证方式）\n-重构关于页面的UI\n-添加登录邮箱格式检测\n-优化对于启动第三方启动器的重复代码\n-优化背景预下载机制\n-默认禁用第三方启动器启动游戏\n-修复选择版本时概率出现崩溃的bug\n-更新所有第三方库\n-添加RTSS禁止注入Sodium的参数支持\n-添加帮助页面\n-支持退出登录\n-图片公告支持外链\n-首页更新日志支持按照日期分卡片显示"
     },
     "game_pack":{
-        "incremental_update":"true",
+        "incremental_update":"tru",
         "incremental_update_version":"2023.10.24",
-        "records":"更换验证服务器",
+        "records":"发布2024年寒假档服务器整合包\n注意：请勿勾选数据保留！！！",
         "dl":""
     },
     "announcement":{
-        "start_page":"1.20.1版本服务器客户端开放下载",
-        "server_title":"1.20.1 差不多原版"
+        "start_page":"2024年寒假档服务器客户端开放下载",
+        "server_title":"1.20.1 超级杂糅包"
     },
     "server":{
         "bindip":"mc.nstarmc.cn",
