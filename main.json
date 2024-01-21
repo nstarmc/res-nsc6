@@ -2,7 +2,7 @@
     "version":{
         "release":"2.0.1",
         "beta":"2.0.1",
-        "gamepack":"2024.01.22"
+        "gamepack":"2024.01.23"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/CNPACK-2024.1.21.1.zip?sign=dL3r4tGyPrO_AFHQax40ksrU6Ykj9XnvYGZa05mTdss=:0",
@@ -13,9 +13,9 @@
         "records":"-修复程序更新页超出长度时没有滚动条的Bug\n-右下角在登陆后会显示UID\n-修复背景图片文件不完整导致加载崩溃（Bug由FASSD提交）\n-完成内置Minecraft启动功能（Java选择，内存，窗口设置，以及独立日志窗口）\n-完成Java自动安装功能\n-完成服务器节点延迟测试功能\n-暂时移除赞助者认证（等待更新认证方式）\n-重构关于页面的UI\n-添加登录邮箱格式检测\n-优化对于启动第三方启动器的重复代码\n-优化背景预下载机制\n-默认禁用第三方启动器启动游戏\n-修复选择版本时概率出现崩溃的bug\n-更新所有第三方库\n-添加RTSS禁止注入Sodium的参数支持\n-添加帮助页面\n-支持退出登录\n-图片公告支持外链\n-首页更新日志支持按照日期分卡片显示"
     },
     "game_pack":{
-        "incremental_update":"tru",
-        "incremental_update_version":"2023.10.24",
-        "records":"发布2024年寒假档服务器整合包\n注意：请勿勾选数据保留！！！",
+        "incremental_update":"true",
+        "incremental_update_version":"2024.01.22",
+        "records":"添加动态光源\n发布2024年寒假档服务器整合包\n注意：请勿勾选数据保留！！！",
         "dl":""
     },
     "announcement":{
