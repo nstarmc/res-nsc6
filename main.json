@@ -2,7 +2,7 @@
     "version":{
         "release":"2.1",
         "beta":"2.1",
-        "gamepack":"2024.01.23"
+        "gamepack":"2024.01.25"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/CNPACK-2024.1.21.1.zip?sign=dL3r4tGyPrO_AFHQax40ksrU6Ykj9XnvYGZa05mTdss=:0",
@@ -14,8 +14,8 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2024.01.22",
-        "records":"添加动态光源\n发布2024年寒假档服务器整合包\n注意：请勿勾选数据保留！！！",
+        "incremental_update_version":"2024.01.23",
+        "records":"添加乐事附属模组\n添加睡袋模组\n添加更多箱子模组\n添加机械动力附属：电动马达，中央厨房\n添加模组：火炬大师（阻止怪物生成）",
         "dl":""
     },
     "announcement":{
