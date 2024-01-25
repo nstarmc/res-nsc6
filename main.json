@@ -23,7 +23,7 @@
         "server_title":"1.20.1 探索&科技"
     },
     "server":{
-        "bindip":"frp-mom.top",
+        "bindip":"frp-lab.top",
         "bindport":"12555",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
         "sha1":"45cbd63c3828ee1d4d6ef85f15eb1e3d06ef308e"
