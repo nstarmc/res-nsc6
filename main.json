@@ -2,7 +2,7 @@
     "version":{
         "release":"2.1",
         "beta":"2.1",
-        "gamepack":"2024.01.25"
+        "gamepack":"2024.01.26"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/CNPACK-2024.1.21.1.zip?sign=dL3r4tGyPrO_AFHQax40ksrU6Ykj9XnvYGZa05mTdss=:0",
@@ -14,8 +14,8 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2024.01.23",
-        "records":"添加乐事附属模组\n添加睡袋模组\n添加更多箱子模组\n添加机械动力附属：电动马达，中央厨房\n添加模组：火炬大师（阻止怪物生成）",
+        "incremental_update_version":"2024.01.25",
+        "records":"添加玫瑰金模组\n支持矿辞统一\n添加开放式电梯模组\n添加游戏启动完成的提示\n添加简单存储模组\n添加高级附魔台模组\n修复垃圾槽，MEK机器UI遮挡",
         "dl":""
     },
     "announcement":{
