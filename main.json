@@ -26,11 +26,7 @@
         "bindip":"frp-lab.top",
         "bindport":"12555",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
-<<<<<<< HEAD
         "sha1":"99bd9f26ef219d853e6cac88bbd78d3993a8125f"
-=======
-        "sha1":"85dad2bc21358fa6aaa9ae20ee20c33deefec063"
->>>>>>> ddbd400f11c6dffdfc0fdac8e3d314da5d3ca511
     },
     "img_notice_url":{
         "img1":"https://www.freeimg.cn/i/2024/01/21/65acfde3e2888.png",
