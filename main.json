@@ -6,7 +6,7 @@
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/CNPACK-2024.1.28.zip?sign=RA17DF6X0j6Q1aZHDbvxlhJFlxTb2qycJn--htnxq8A=:0",
-        "SHA-1":"85dad2bc21358fa6aaa9ae20ee20c33deefec063"
+        "SHA-1":"159f6d521c0c72fd031841c0fc0ad710b12bd1cc"
     },
     "update_pack":{
         "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V2.1.zip?sign=tkqJencJHsAEBQQ_syrOamFgrUj0yussnb-2BviiBP8=:0",
@@ -26,7 +26,7 @@
         "bindip":"frp-lab.top",
         "bindport":"12555",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
-        "sha1":"45cbd63c3828ee1d4d6ef85f15eb1e3d06ef308e"
+        "sha1":"85dad2bc21358fa6aaa9ae20ee20c33deefec063"
     },
     "img_notice_url":{
         "img1":"https://www.freeimg.cn/i/2024/01/21/65acfde3e2888.png",
