@@ -2,7 +2,7 @@
     "version":{
         "release":"2.1",
         "beta":"2.1",
-        "gamepack":"2024.01.30"
+        "gamepack":"2024.02.03"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/CNPACK-2024.1.28.zip?sign=RA17DF6X0j6Q1aZHDbvxlhJFlxTb2qycJn--htnxq8A=:0",
@@ -14,8 +14,8 @@
     },
     "game_pack":{
         "incremental_update":"true",
-        "incremental_update_version":"2024.01.26",
-        "records":"添加模组：小夜灯\n添加模组：神秘农业及扩展（From Xlij）\n添加模组：建筑帮手（From FASSD）\n注意：由于神秘农业会有精华矿石，你需要在服务器新加载区块才能找到！",
+        "incremental_update_version":"2024.01.30",
+        "records":"添加模组：实用塔，电动喷气背包",
         "dl":""
     },
     "announcement":{
