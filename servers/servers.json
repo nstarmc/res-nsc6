@@ -1,14 +1,19 @@
 {
     "ping":[
         {
-            "name":"ceshi",
-            "ip":"hypixel.net",
+            "name":"广东顺德移动-IPV6",
+            "ip":"v6mc.nstarmc.cn",
             "port":"25565"
         },
         {
-            "name":"ceshi2",
-            "ip":"baidu.com",
-            "port":"25565"
+            "name":"广东广州-BGP",
+            "ip":"mslgz.mcdns.nstarmc.cn",
+            "port":"34576"
+        },
+        {
+            "name":"湖北十堰-电信",
+            "ip":"mslhb.mcdns.nstarmc.cn",
+            "port":"15573"
         }
     ]
 }
