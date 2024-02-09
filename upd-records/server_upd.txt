@@ -1,3 +1,16 @@
+#2024年2月9日 下午1:50 除夕快乐！*
+添加模组：
+机械动力：跨越 https://www.mcmod.cn/class/7737.html
+通用机械武器 https://www.mcmod.cn/class/12800.html
+Alex生物 https://www.mcmod.cn/class/3318.html
+方块宝可梦 https://www.mcmod.cn/class/9300.html
+进度展示 https://www.mcmod.cn/class/5794.html
+alex乐事 https://www.mcmod.cn/class/5565.html
+生物群系进度 https://www.mcmod.cn/class/10241.html
+机械动力 实用物件 https://www.mcmod.cn/class/7464.html
+EMI https://www.mcmod.cn/class/6630.html
+以及，应急食品x1
+
 #2024年2月4日 下午11：00*
 修复AE2无线终端无限距离取出存入物品数量问题
 
