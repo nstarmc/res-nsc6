@@ -23,10 +23,10 @@
         "server_title":"1.20.1 探索&科技"
     },
     "server":{
-        "bindip":"ganshity.lcf.icu",
-        "bindport":"12555",
+        "bindip":"mslgz.mcdns.nstarmc.cn",
+        "bindport":"34576",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
-        "sha1":"c3479e5c7f11164be05986b5dc6a0fb24cfe7d0f"
+        "sha1":"98948b68832c5f5d124e7e004372196ba07e93b2"
     },
     "img_notice_url":{
         "img1":"https://www.freeimg.cn/i/2024/01/21/65acfde3e2888.png",
