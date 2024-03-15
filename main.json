@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"2.1.1",
-        "beta":"2.1.1",
+        "release":"2.1.1.1",
+        "beta":"2.1.1.1",
         "gamepack":"2024.02.09"
     },
     "i18":{
@@ -9,8 +9,8 @@
         "SHA-1":"159f6d521c0c72fd031841c0fc0ad710b12bd1cc"
     },
     "update_pack":{
-        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V2.1.1.zip?sign=6_EPbzFC1WaZMDaJ9G66Zdhzti88Zzr9kpFXS4gYIRY=:0",
-        "records":"-添加全局崩溃处理\n-添加服务器状态页面"
+        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/v2.1.1.1.zip?sign=_smzog7MOn8G6ubYFLPEHDPfwq57I0SRh2BdvT_1wiU=:0",
+        "records":"-添加全局崩溃处理\n-添加服务器状态页面\n-当重复打开客户端时，会直接显示运行中的客户端"
     },
     "game_pack":{
         "incremental_update":"true",
