@@ -18,6 +18,24 @@
         "records":"添加模组：\n机械动力：跨越\n通用机械武器 \nAlex生物 \n方块宝可梦 \n进度展示 \nalex乐事 \n生物群系进度\n机械动力 实用物件 \nEMI \n以及，应急食品x1",
         "dl":""
     },
+    "notice":[
+        {
+            "level":"Primary",
+            "content":"这是测试公告（主题色）"
+        },
+        {
+            "level":"Success",
+            "content":"这是测试公告（成功）"
+        },
+        {
+            "level":"Warning",
+            "content":"这是测试公告（警告）"
+        },
+        {
+            "level":"Danger",
+            "content":"这是测试公告（危险）"
+        }
+    ],
     "announcement":{
         "start_page":"游戏愉快呀！",
         "server_title":"1.20.1 探索&科技"
