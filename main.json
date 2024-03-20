@@ -21,18 +21,22 @@
     "notice":[
         {
             "level":"Primary",
+            "title":"公告",
             "content":"这是测试公告（主题色）"
         },
         {
             "level":"Success",
+            "title":"公告",
             "content":"这是测试公告（成功）"
         },
         {
             "level":"Warning",
+            "title":"公告",
             "content":"这是测试公告（警告）"
         },
         {
             "level":"Danger",
+            "title":"公告",
             "content":"这是测试公告（危险）"
         }
     ],
