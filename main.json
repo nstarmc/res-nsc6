@@ -67,25 +67,26 @@
         "img2":"cc7b2984de0a346486bb324ab177f7909a31f83c",
         "img3":"5ba4128b87a16a9e6d5f9a1219c092b6985abd75"
     },
-    "background":[  
-        "https://s11.ax1x.com/2024/01/21/pFV0aM6.png",  
-        "https://s11.ax1x.com/2024/01/21/pFV0Nxx.png",  
-        "https://s11.ax1x.com/2024/01/21/pFV0tR1.png",  
-        "https://s11.ax1x.com/2024/01/21/pFV08IJ.png",  
-        "https://s11.ax1x.com/2024/01/21/pFV03a4.png",  
-        "https://s11.ax1x.com/2024/01/21/pFV01ZF.png",  
-        "https://s11.ax1x.com/2024/01/21/pFV0QqU.png",  
-        "https://s11.ax1x.com/2024/01/21/pFV0MrT.png",  
-        "https://s11.ax1x.com/2023/10/21/pikkBee.png",  
-        "https://s4.ax1x.com/2022/01/24/7oDGXF.png",  
-        "https://s4.ax1x.com/2022/01/24/7oD3lT.png",  
-        "https://s4.ax1x.com/2022/01/24/7oDMYq.png",
-        "https://s4.ax1x.com/2022/01/29/7zfSRs.png",
-        "https://s4.ax1x.com/2022/01/24/7oDYm4.png",
-        "https://s4.ax1x.com/2022/01/29/7zfAdU.png",
-        "https://s4.ax1x.com/2022/01/29/7zfPs0.png",
-        "https://s4.ax1x.com/2022/01/24/7oDnTs.png"
-      ],
+    "background":[
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7oD3lT.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7oDGXF.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7oDMYq.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7oDYm4.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7oDnTs.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7zfAdU.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7zfPs0.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7zfSRs.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV01ZF.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV03a4.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV08IJ.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0MrT.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0Nxx.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0QqU.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0aM6.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0tR1.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pikkBee.png"
+    ]
+    ,
     "java":[
         {
             "version":"17",
