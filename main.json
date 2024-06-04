@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"2.1.1.1",
-        "beta":"2.1.1.1",
+        "release":"2.2",
+        "beta":"2.2",
         "gamepack":"2024.02.09"
     },
     "i18":{
@@ -9,8 +9,8 @@
         "SHA-1":"159f6d521c0c72fd031841c0fc0ad710b12bd1cc"
     },
     "update_pack":{
-        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/v2.1.1.1.zip?sign=_smzog7MOn8G6ubYFLPEHDPfwq57I0SRh2BdvT_1wiU=:0",
-        "records":"-添加全局崩溃处理\n-添加服务器状态页面\n-当重复打开客户端时，会直接显示运行中的客户端"
+        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V2.2.zip?sign=IvXHTEkePMgT9T_J-q_U_AVCRvKaKq18-52Ddz-Mqn0=:0",
+        "records":"2.2版本\n具体日志会在更新后显示"
     },
     "game_pack":{
         "incremental_update":"true",
@@ -44,9 +44,9 @@
     ],
     "announcement":{
         "start_page":"游戏愉快呀！",
-        "server_title":"1.20.1 探索&科技",
+        "server_title":"敬请期待！",
         "dialogNoticeTitle":"公告",
-        "dialogNoticeContent":"这是一个弹窗公告！\n换行！"
+        "dialogNoticeContent":"欢迎使用全新版本的NSTARMC群服务器客户端！\n匠心打造！\n新功能服务器帮助网站！"
     },
     "server":{
         "online":false,
