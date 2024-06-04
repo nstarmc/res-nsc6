@@ -44,7 +44,9 @@
     ],
     "announcement":{
         "start_page":"游戏愉快呀！",
-        "server_title":"1.20.1 探索&科技"
+        "server_title":"1.20.1 探索&科技",
+        "dialogNoticeTitle":"公告",
+        "dialogNoticeContent":"这是一个弹窗公告！"
     },
     "server":{
         "online":false,
