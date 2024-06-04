@@ -15,8 +15,7 @@
     "game_pack":{
         "incremental_update":"true",
         "incremental_update_version":"2024.02.03",
-        "records":"添加模组：\n机械动力：跨越\n通用机械武器 \nAlex生物 \n方块宝可梦 \n进度展示 \nalex乐事 \n生物群系进度\n机械动力 实用物件 \nEMI \n以及，应急食品x1",
-        "dl":""
+        "records":"添加模组：\n机械动力：跨越\n通用机械武器 \nAlex生物 \n方块宝可梦 \n进度展示 \nalex乐事 \n生物群系进度\n机械动力 实用物件 \nEMI \n以及，应急食品x1"
     },
     "notice":[
         {
@@ -61,16 +60,6 @@
             "sha1":"07e3572471ec30563f05922a1746bb60647690b6"
         }
     ],
-    "img_notice_url":{
-        "img1":"https://www.freeimg.cn/i/2024/01/21/65acfde3e2888.png",
-        "img2":"https://www.freeimg.cn/i/2024/01/21/65acfde34204e.png",
-        "img3":"https://www.freeimg.cn/i/2024/01/21/65acfde3a801f.png"
-    },
-    "img_notice_sha1":{
-        "img1":"6b49956626a581d14d8d251faf0c557130ab4a5d",
-        "img2":"cc7b2984de0a346486bb324ab177f7909a31f83c",
-        "img3":"5ba4128b87a16a9e6d5f9a1219c092b6985abd75"
-    },
     "background":[
         "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7oD3lT.png",
         "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/7oDGXF.png",
@@ -97,5 +86,18 @@
             "dl_url":"https://download.java.net/openjdk/jdk17/ri/openjdk-17+35_windows-x64_bin.zip",
             "dir":"jdk-17"
         }
-    ]
+    ],
+    
+    "img_notice_url":{
+        "_comment": "已废弃",
+        "img1":"https://www.freeimg.cn/i/2024/01/21/65acfde3e2888.png",
+        "img2":"https://www.freeimg.cn/i/2024/01/21/65acfde34204e.png",
+        "img3":"https://www.freeimg.cn/i/2024/01/21/65acfde3a801f.png"
+    },
+    "img_notice_sha1":{
+        "_comment": "已废弃",
+        "img1":"6b49956626a581d14d8d251faf0c557130ab4a5d",
+        "img2":"cc7b2984de0a346486bb324ab177f7909a31f83c",
+        "img3":"5ba4128b87a16a9e6d5f9a1219c092b6985abd75"
+    },
 }
