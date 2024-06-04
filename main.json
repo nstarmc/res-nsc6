@@ -27,17 +27,20 @@
         {
             "level":"Success",
             "title":"公告",
-            "content":"这是测试公告（成功）"
+            "content":"这是测试公告（成功）",
+            "hide":true
         },
         {
             "level":"Warning",
             "title":"公告",
-            "content":"这是测试公告（警告）"
+            "content":"这是测试公告（警告）",
+            "hide":true
         },
         {
             "level":"Danger",
             "title":"公告",
-            "content":"这是测试公告（危险）"
+            "content":"这是测试公告（危险）",
+            "hide":true
         }
     ],
     "announcement":{
@@ -45,6 +48,7 @@
         "server_title":"1.20.1 探索&科技"
     },
     "server":{
+        "online":false,
         "bindip":"whloc.mcdns.nstarmc.cn",
         "bindport":"58939",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
