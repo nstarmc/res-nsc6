@@ -20,13 +20,13 @@
     "notice":[
         {
             "level":"Primary",
-            "title":"公告",
-            "content":"这是测试公告（主题色）"
+            "title":"欢迎！",
+            "content":"欢迎使用NSTARMC群服务器客户端第六代！"
         },
         {
             "level":"Success",
             "title":"公告",
-            "content":"这是测试公告（成功）",
+            "content":"服务器不在开放时间······\n敬请期待！",
             "hide":false
         },
         {
@@ -87,7 +87,7 @@
             "dir":"jdk-17"
         }
     ],
-    
+
     "img_notice_url":{
         "_comment": "已废弃",
         "img1":"https://www.freeimg.cn/i/2024/01/21/65acfde3e2888.png",
