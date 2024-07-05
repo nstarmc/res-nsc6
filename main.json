@@ -2,7 +2,7 @@
     "version":{
         "release":"2.2.1",
         "beta":"2.2.1",
-        "gamepack":"2024.02.09"
+        "gamepack":"2024.07.06"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/CNPACK-2024.1.28.zip?sign=RA17DF6X0j6Q1aZHDbvxlhJFlxTb2qycJn--htnxq8A=:0",
@@ -13,9 +13,9 @@
         "records":"2.2版本\n具体日志会在更新后显示"
     },
     "game_pack":{
-        "incremental_update":"true",
+        "incremental_update":"tru",
         "incremental_update_version":"2024.02.03",
-        "records":"添加模组：\n机械动力：跨越\n通用机械武器 \nAlex生物 \n方块宝可梦 \n进度展示 \nalex乐事 \n生物群系进度\n机械动力 实用物件 \nEMI \n以及，应急食品x1"
+        "records":"2024"
     },
     "notice":[
         {
@@ -25,8 +25,8 @@
         },
         {
             "level":"Success",
-            "title":"公告",
-            "content":"服务器不在开放时间······\n敬请期待！",
+            "title":"NSTARMC",
+            "content":"祝您游戏愉快~",
             "hide":false
         },
         {
@@ -44,14 +44,14 @@
     ],
     "announcement":{
         "start_page":"游戏愉快呀！",
-        "server_title":"敬请期待！",
+        "server_title":"1.21 轻量包",
         "dialogNoticeTitle":"公告",
-        "dialogNoticeContent":"欢迎使用全新版本的NSTARMC群服务器客户端！\n匠心打造！\n新功能请见：服务器帮助网站！"
+        "dialogNoticeContent":"暑假第一期开服啦！\n内容是1.21轻量生存噢~"
     },
     "server":{
-        "online":false,
-        "bindip":"whloc.mcdns.nstarmc.cn",
-        "bindport":"58939",
+        "online":true,
+        "bindip":"sq-raincloud.mcdns.nstarmc.cn",
+        "bindport":"11020",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
         "sha1":"f47a32f28acd8409feb0a959928b57650ad05805"
     },
