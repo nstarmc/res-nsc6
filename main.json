@@ -19,12 +19,6 @@
     },
     "notice":[
         {
-            "level":"Danger",
-            "title":"BUG警示！！！务必注意！！！",
-            "content":"当前版本服务器请不要前往末地！！！\n如果您还是想去，请你100%保证您不会落入虚空！\n若有人利用此bug，将遭到永久封禁！",
-            "hide":false
-        },
-        {
             "level":"Primary",
             "title":"欢迎！",
             "content":"欢迎使用NSTARMC群服务器客户端第六代！"
@@ -41,6 +35,12 @@
             "content":"当前服务器物理机配置为：\ni5-12600k + DDR4 32G + NVME高速固态\n虽然不是i9-14900ks 已经尽力啦！"
         },
         {
+            "level":"Danger",
+            "title":"特性使用警告！",
+            "content":"服务器允许利用MC原版特性\n但请注意：\n-不可以影响他人正常游戏\n-用完必须关闭机器，防止掉落物过多导致炸档！",
+            "hide":false
+        },
+        {
             "level":"Warning",
             "title":"公告",
             "content":"这是测试公告（警告）",
@@ -51,7 +51,7 @@
         "start_page":"游戏愉快呀！",
         "server_title":"1.21 轻量包",
         "dialogNoticeTitle":"公告",
-        "dialogNoticeContent":"暑假第一期开服啦！\n内容是1.21轻量生存噢~\n【BUG警告！！】\n当前版本服务器请不要前往末地！！！\n如果您还是想去，请你100%保证您不会落入虚空！\n若有人利用此bug，将遭到永久封禁！"
+        "dialogNoticeContent":"暑假第一期开服啦！\n祝您游戏愉快呀~\n服务器允许利用MC原版特性\n但请注意：\n-不可以影响他人正常游戏\n-用完必须关闭机器，防止掉落物过多导致炸档！"
     },
     "server":{
         "online":true,
@@ -84,7 +84,8 @@
         "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0QqU.png",
         "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0aM6.png",
         "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pFV0tR1.png",
-        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pikkBee.png"
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/pikkBee.png",
+        "https://res-origin.nstarmc.cn/d/NSC6-Resources/NSC6/backgrounds/2024-07-05_17.40.17%20-%20%E5%89%AF%E6%9C%AC.png"
     ]
     ,
     "java":[
@@ -106,5 +107,5 @@
         "img1":"6b49956626a581d14d8d251faf0c557130ab4a5d",
         "img2":"cc7b2984de0a346486bb324ab177f7909a31f83c",
         "img3":"5ba4128b87a16a9e6d5f9a1219c092b6985abd75"
-    },
+    }
 }
