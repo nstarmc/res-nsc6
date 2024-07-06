@@ -54,7 +54,7 @@
         "dialogNoticeContent":"暑假第一期开服啦！\n祝您游戏愉快呀~\n服务器允许利用MC原版特性\n但请注意：\n-不可以影响他人正常游戏\n-用完必须关闭机器，防止掉落物过多导致炸档！"
     },
     "server":{
-        "online":true,
+        "online":"true",
         "bindip":"sq-raincloud.mcdns.nstarmc.cn",
         "bindport":"11020",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
