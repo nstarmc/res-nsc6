@@ -19,6 +19,12 @@
     },
     "notice":[
         {
+            "level":"Danger",
+            "title":"BUG警示！！！务必注意！！！",
+            "content":"当前版本服务器请不要前往末地！！！\n如果您还是想去，请你100%保证您不会落入虚空！\n若有人利用此bug，将遭到永久封禁！",
+            "hide":false
+        },
+        {
             "level":"Primary",
             "title":"欢迎！",
             "content":"欢迎使用NSTARMC群服务器客户端第六代！"
@@ -39,12 +45,6 @@
             "title":"公告",
             "content":"这是测试公告（警告）",
             "hide":true
-        },
-        {
-            "level":"Danger",
-            "title":"BUG警示！！！务必注意！！！",
-            "content":"当前版本服务器请不要前往末地！！！\n如果您还是想去，请你100%保证您不会落入虚空！\n若有人利用此bug，将遭到永久封禁！",
-            "hide":false
         }
     ],
     "announcement":{
