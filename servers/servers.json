@@ -1,19 +1,14 @@
 {
     "ping":[
         {
-            "name":"广东顺德移动-IPV6",
+            "name":"广东顺德移动-IPV6 直连",
             "ip":"v6mc.nstarmc.cn",
             "port":"25565"
         },
         {
-            "name":"广东广州-BGP",
-            "ip":"mslgz.mcdns.nstarmc.cn",
-            "port":"34576"
-        },
-        {
-            "name":"湖北十堰-电信",
-            "ip":"mslhb.mcdns.nstarmc.cn",
-            "port":"15573"
+            "name":"江苏宿迁BGP 中转",
+            "ip":"sq-raincloud.mcdns.nstarmc.cn",
+            "port":"11020"
         }
     ]
 }
