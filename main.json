@@ -2,7 +2,7 @@
     "version":{
         "release":"2.2.1",
         "beta":"2.2.1",
-        "gamepack":"2024.07.07"
+        "gamepack":"2024.07.08"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E6%96%87%E5%8C%85%20-%2020240707.zip?sign=ZGiJ0IBdOdjin8xIUsiB-_3cTfEWeeZMl56oEelBl6U=:0",
@@ -13,8 +13,8 @@
         "records":"2.2版本\n具体日志会在更新后显示"
     },
     "game_pack":{
-        "incremental_update":"tru",
-        "incremental_update_version":"2024.02.03",
+        "incremental_update":"true",
+        "incremental_update_version":"2024.07.07",
         "records":"2024"
     },
     "notice":[
