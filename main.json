@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"2.2.1",
-        "beta":"2.2.1",
+        "release":"2.2.2",
+        "beta":"2.2.2",
         "gamepack":"2024.07.08"
     },
     "i18":{
@@ -9,8 +9,8 @@
         "SHA-1":"6d49fbd3b9abf9a5fa8501db8826b70fb0b0773a"
     },
     "update_pack":{
-        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V2.2.1.zip?sign=eFT-pRE4NOlY_TqXXhfBp8T4DzHjxDwE8kekyRBr3Tc=:0",
-        "records":"2.2版本\n具体日志会在更新后显示"
+        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/v2.2.2.zip?sign=cRHPvkZXjBozqdN2YcAlAbbJJttxF2K_pEZiVJn_ci4=:0",
+        "records":"具体日志会在更新后显示"
     },
     "game_pack":{
         "incremental_update":"true",
@@ -54,7 +54,7 @@
         "dialogNoticeContent":"暑假第一期开服啦！\n祝您游戏愉快呀~\n服务器允许利用MC原版特性\n但请注意：\n-不可以影响他人正常游戏\n-用完必须关闭机器，防止掉落物过多导致炸档！"
     },
     "server":{
-        "online":"tru",
+        "online":"true",
         "bindip":"sq-raincloud.mcdns.nstarmc.cn",
         "bindport":"11020",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
