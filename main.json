@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"2.2.2",
-        "beta":"2.2.2",
+        "release":"2.2.3",
+        "beta":"2.2.3",
         "gamepack":"2024.07.08"
     },
     "i18":{
@@ -9,7 +9,7 @@
         "SHA-1":"6d49fbd3b9abf9a5fa8501db8826b70fb0b0773a"
     },
     "update_pack":{
-        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/v2.2.2.zip?sign=cRHPvkZXjBozqdN2YcAlAbbJJttxF2K_pEZiVJn_ci4=:0",
+        "release":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTAR-Minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9B%B4%E6%96%B0%E5%8C%85/NSC/V2.2.3.zip?sign=SK8hFhP7fKAyiDZ3lqrS2-eqc6p-ts-37arqWRj3gwk=:0",
         "records":"具体日志会在更新后显示"
     },
     "game_pack":{
