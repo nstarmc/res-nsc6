@@ -25,8 +25,8 @@
         },
         {
             "level":"Success",
-            "title":"NSTARMC",
-            "content":"祝您游戏愉快~",
+            "title":"提醒",
+            "content":"目前开放整合端是大型包ATM9\n内存至少8G！建议12G！\n后台不要开太多东西！",
             "hide":false
         },
         {
@@ -35,9 +35,9 @@
             "content":"当前服务器物理机配置为：\ni5-12600k + DDR4 32G + NVME高速固态\n虽然不是i9-14900ks 已经尽力啦！"
         },
         {
-            "level":"Danger",
-            "title":"特性使用警告！",
-            "content":"服务器允许利用MC原版特性\n但请注意：\n-不可以影响他人正常游戏\n-用完必须关闭机器，防止掉落物过多导致炸档！",
+            "level":"Warning",
+            "title":"记得加载汉化包！",
+            "content":"先加载汉化包再进入游戏！！！\n不然很容易崩溃！",
             "hide":false
         },
         {
@@ -49,9 +49,9 @@
     ],
     "announcement":{
         "start_page":"游戏愉快呀！",
-        "server_title":"1.21 轻量包",
-        "dialogNoticeTitle":"公告",
-        "dialogNoticeContent":"暑假第一期开服啦！\n祝您游戏愉快呀~\n服务器允许利用MC原版特性\n但请注意：\n-不可以影响他人正常游戏\n-用完必须关闭机器，防止掉落物过多导致炸档！"
+        "server_title":"ATM9 0.2.61",
+        "dialogNoticeTitle":"好好看！",
+        "dialogNoticeContent":"目前开放整合端是大型包ATM9\n内存至少8G！建议12G！\n后台不要开太多东西！\n还有要先加载汉化包，再进入游戏！！！"
     },
     "server":{
         "online":"true",
