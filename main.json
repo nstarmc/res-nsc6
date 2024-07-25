@@ -32,7 +32,7 @@
         {
             "level":"Primary",
             "title":"服务器配置全新升级！",
-            "content":"当前服务器物理机配置为：\ni5-12600k + DDR4 32G + NVME高速固态\n虽然不是i9-14900ks 已经尽力啦！"
+            "content":"当前服务器物理机配置为：\ni5-12600k + DDR4 32G + NVME高速固态"
         },
         {
             "level":"Warning",
