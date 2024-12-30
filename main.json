@@ -2,7 +2,7 @@
     "version":{
         "release":"2.2.3",
         "beta":"2.2.3",
-        "gamepack":"2024.07.25"
+        "gamepack":"2024.12.30"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/NSTARMC-ATM9-0.2.61-I18N-20270727.zip?sign=9ErZ9CpWkeAs4SSlgpI0YEAuVlz6R16L3oopKR3K01w=:0",
@@ -13,7 +13,7 @@
         "records":"具体日志会在更新后显示"
     },
     "game_pack":{
-        "incremental_update":"true",
+        "incremental_update":"tru",
         "incremental_update_version":"2024.07.07",
         "records":"2024"
     },
