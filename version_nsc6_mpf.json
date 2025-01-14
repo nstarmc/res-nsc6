@@ -1,0 +1,11 @@
+{
+    "latest":"1.0.1",
+    "updatePackage":{
+        "windows":{
+            "amd64":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/NSTARMC-ATM9-0.2.61-I18N-20270727.zip?sign=9ErZ9CpWkeAs4SSlgpI0YEAuVlz6R16L3oopKR3K01w=:0"
+        },
+        "macos":{
+            "arm64":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/NSTARMC-ATM9-0.2.61-I18N-20270727.zip?sign=9ErZ9CpWkeAs4SSlgpI0YEAuVlz6R16L3oopKR3K01w=:0"
+        }
+    }
+}
