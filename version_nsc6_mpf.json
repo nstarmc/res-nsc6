@@ -2,10 +2,10 @@
     "latest":"1.0.1",
     "updatePackage":{
         "windows":{
-            "amd64":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/NSTARMC-ATM9-0.2.61-I18N-20270727.zip?sign=9ErZ9CpWkeAs4SSlgpI0YEAuVlz6R16L3oopKR3K01w=:0"
+            "amd64":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/%E6%B8%B8%E6%88%8F%E8%B5%84%E6%BA%90/%E6%B5%8B%E8%AF%95%E6%9B%B4%E6%96%B0%E5%8C%85.zip?sign=oyA2YHWDO1TZz-UmS4xBv2wv3n7fu56qKqboCUhA-p4=:0"
         },
         "macos":{
-            "arm64":"https://list.xiaoyulu.cn/d/NSTAR%20RES/NSTARMC-SERVER%20I18N/NSTARMC-ATM9-0.2.61-I18N-20270727.zip?sign=9ErZ9CpWkeAs4SSlgpI0YEAuVlz6R16L3oopKR3K01w=:0"
+            "arm64":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/%E6%B8%B8%E6%88%8F%E8%B5%84%E6%BA%90/%E6%B5%8B%E8%AF%95%E6%9B%B4%E6%96%B0%E5%8C%85.zip?sign=oyA2YHWDO1TZz-UmS4xBv2wv3n7fu56qKqboCUhA-p4=:0"
         }
     }
 }
