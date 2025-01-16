@@ -1,7 +1,7 @@
 {
     "version":{
-        "release":"2.3",
-        "beta":"2.3",
+        "release":"2.3.1",
+        "beta":"2.3.1",
         "gamepack":"2024.12.30"
     },
     "i18":{
@@ -9,7 +9,7 @@
         "SHA-1":"f5662e044acb692753c3de49d3cfd6d550cab30f"
     },
     "update_pack":{
-        "release":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/NSC6/NSC6%20Traditional/win-x64.zip?sign=GSmQ50h-ftq0Hsy-Mk1kxdoPVtuzH9IseFzmZqOkIjA=:0",
+        "release":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/NSC6/NSC6%20Traditional/V2.3.1/win-x64-2.3.1.zip?sign=w15GyMaiVEawfgkLoH4fw38JP_8WmG4ZSKl7IiUMzY0=:0",
         "records":"具体日志会在更新后显示"
     },
     "game_pack":{

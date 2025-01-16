@@ -1,3 +1,7 @@
+#$2.3.1 Bug Fix 2025.1.16*
+-同步新版本Java配置读取规则
+*#
+
 #$2.3 Bug Fix 2025.1.15*
 -新增低版本Minecraft启动支持
 -修复部分版本Minecraft无法启动的bug
