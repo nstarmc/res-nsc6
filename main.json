@@ -25,14 +25,14 @@
         },
         {
             "level":"Primary",
-            "title":"未开放···",
-            "content":"敬请期待······"
+            "title":"服务器已开放！",
+            "content":"游戏愉快！"
         }
     ],
     "announcement":{
         "start_page":"游戏愉快呀！",
-        "server_title":"ATM9 0.2.61",
-        "dialogNoticeTitle":"好好看！",
+        "server_title":"ATM9 1.0.3",
+        "dialogNoticeTitle":"公告",
         "dialogNoticeContent":"目前开放整合端是大型包ATM9\n内存至少8G！建议12G！\n后台不要开太多东西！\n还有要先加载汉化包，再进入游戏！！！"
     },
     "server":{
