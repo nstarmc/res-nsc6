@@ -27,6 +27,11 @@
             "level":"Primary",
             "title":"服务器已开放！",
             "content":"游戏愉快！"
+        },
+        {
+            "level":"Warning",
+            "title":"服务器测试警告",
+            "content":"由于没有时间进行测试，不清楚是否会遇到问题\n最坏打算就是进度归零qwq"
         }
     ],
     "announcement":{
