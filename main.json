@@ -42,10 +42,10 @@
     },
     "server":{
         "online":"true",
-        "bindip":"api.xiaoyulu.cn",
-        "bindport":"11106",
+        "bindip":"file-gz.xiaoyulu.cn",
+        "bindport":"10271",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
-        "sha1":"4badaeac900cd843d2e251781c81c510069bcc0d"
+        "sha1":"cd3892e180bdd5d2bd3d29de4e8a3cf6ef9b615b"
     },
     "img_notice":[
         {
