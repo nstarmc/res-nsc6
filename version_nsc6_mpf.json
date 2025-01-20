@@ -2,10 +2,10 @@
     "latest":"1.0.2",
     "updatePackage":{
         "windows":{
-            "amd64":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/NSC6/NSC6%20Multiplatform/V1.0.2/win-x64-V1.0.2.zip?sign=dCzJJmAz8alE6hj-16DT3wSD4UH5kTUDzf7xiDOo4LE=:0"
+            "amd64":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/NSC6/NSC6%20Multiplatform/V1.0.3/win-x64.zip?sign=j7tXDSdglkRIbk6lgBC06U8u2FTjXyWLFG3ZKo7Ak80=:0"
         },
         "macos":{
-            "arm64":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/NSC6/NSC6%20Multiplatform/V1.0.2/osx-arm64-1.0.2.zip?sign=YoV3DlE13D1X4980yMIm67EC9rId9CpNgacb3kxaohA=:0"
+            "arm64":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/NSC6/NSC6%20Multiplatform/V1.0.3/osx-arm64.zip?sign=QRADe0QzVdu8x7OaKLRM-XV9p-Fnv945MADsIjLPmYE=:0"
         }
     }
 }
