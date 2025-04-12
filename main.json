@@ -43,9 +43,9 @@
     "server":{
         "online":"true",
         "bindip":"file-gz.xiaoyulu.cn",
-        "bindport":"10271",
+        "bindport":"10278",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
-        "sha1":"009d447c0924b0fb8d9275977d74607d0fea9a28"
+        "sha1":"295c405220f66ec4e2307da143c054929cc8f738"
     },
     "img_notice":[
         {
