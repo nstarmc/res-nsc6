@@ -38,12 +38,12 @@
         "start_page":"游戏愉快呀！",
         "server_title":"BMC5 V35",
         "dialogNoticeTitle":"公告",
-        "dialogNoticeContent":"目前开放整合端是休闲包BMC5\n内存6-8G应该够用\n还有要先加载汉化包，再进入游戏！！！"
+        "dialogNoticeContent":"目前开放整合端是休闲包BMC5\n内存6G左右即可\n还有要先加载汉化包，再进入游戏！！！"
     },
     "server":{
         "online":"true",
-        "bindip":"file-gz.xiaoyulu.cn",
-        "bindport":"10278",
+        "bindip":"cn-nb1.qwq0v0.fun",
+        "bindport":"21133",
         "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
         "sha1":"295c405220f66ec4e2307da143c054929cc8f738"
     },
