@@ -44,8 +44,8 @@
         "online":"true",
         "bindip":"cn-nb1.qwq0v0.fun",
         "bindport":"21133",
-        "ip.dat":"https://nsc.xiaoyulu.cn/servers/servers.dat",
-        "sha1":"295c405220f66ec4e2307da143c054929cc8f738"
+        "ip.dat":"https://api.xiaoyulu.cn/static/servers/servers.dat",
+        "sha1":"159773305c8daac150ffe4cc3f607a124192d69b"
     },
     "img_notice":[
         {
