@@ -2,7 +2,7 @@
     "version":{
         "release":"2.3.3",
         "beta":"2.3.3",
-        "gamepack":"2025.01.19"
+        "gamepack":"2025.07.29"
     },
     "i18":{
         "URL":"https://file-gz.xiaoyulu.cn/d/%E6%9C%AC%E5%9C%B0%E8%B5%84%E6%BA%90/NSC%20Resources/%E6%B8%B8%E6%88%8F%E6%9B%B4%E6%96%B0%E5%8C%85/2025.1.19/NSTARMC%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E6%96%87%E5%8C%85-0129.zip?sign=5mWFdjt-Ux2fN9Yi2b3eOqTuUT37QdB0Y0BTwz_HNJ8=:0",
@@ -13,9 +13,9 @@
         "records":"具体日志会在更新后显示"
     },
     "game_pack":{
-        "incremental_update":"true",
-        "incremental_update_version":"2025.01.17",
-        "records":"2024"
+        "incremental_update":"tru",
+        "incremental_update_version":"2025.07.29",
+        "records":""
     },
     "notice":[
         {
@@ -36,9 +36,9 @@
     ],
     "announcement":{
         "start_page":"游戏愉快呀！",
-        "server_title":"ATM9 1.0.3",
+        "server_title":"BMC5 V35",
         "dialogNoticeTitle":"公告",
-        "dialogNoticeContent":"目前开放整合端是大型包ATM9\n内存至少8G！建议12G！\n后台不要开太多东西！\n还有要先加载汉化包，再进入游戏！！！"
+        "dialogNoticeContent":"目前开放整合端是休闲包BMC5\n内存6-8G应该够用\n还有要先加载汉化包，再进入游戏！！！"
     },
     "server":{
         "online":"true",
