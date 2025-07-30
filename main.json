@@ -2,7 +2,7 @@
     "version":{
         "release":"2.4",
         "beta":"2.4",
-        "gamepack":"2025.07.29"
+        "gamepack":"2025.07.30"
     },
     "i18":{
         "URL":"https://list.xiaoyulu.cn/d/Lz%20Resources/NSTARMC/NSTARMC%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%B5%84%E6%BA%90/%E6%B8%B8%E6%88%8F%E5%8C%85/2025-07-29-BMC5/%E6%B1%89%E5%8C%96%E8%B5%84%E6%BA%90%E5%8C%85/bmc5-i18n.zip?sign=WPY1UFPdU0jFRjiRYHuvNPqda3tvle0dK7nzCw3VRnk=:0",
@@ -13,8 +13,8 @@
         "records":"具体日志会在更新后显示"
     },
     "game_pack":{
-        "incremental_update":"tru",
-        "incremental_update_version":"2025.07.29",
+        "incremental_update":"true",
+        "incremental_update_version":"2025.07.30",
         "records":""
     },
     "notice":[
@@ -26,12 +26,12 @@
         {
             "level":"Primary",
             "title":"服务器已开放！",
-            "content":"游戏愉快！"
+            "content":"目前开放的服务器是Better MC 5\n祝您游戏愉快！"
         },
         {
-            "level":"Warning",
-            "title":"服务器测试警告",
-            "content":"由于没有时间进行测试，不清楚是否会遇到问题\n最坏打算就是进度归零qwq"
+            "level":"Info",
+            "title":"温馨提醒",
+            "content":"BMC5建议内存为6G，若需要开光影可以稍微调高一些（在设置中设置）\n游戏中请与其他玩家和睦相处哦~"
         }
     ],
     "announcement":{
